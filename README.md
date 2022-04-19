@@ -1,2 +1,3 @@
 # ws_drone_main
-workspace of ROS //my first projects with drones
+copy main_drone_pkg to src in your workspace
+
